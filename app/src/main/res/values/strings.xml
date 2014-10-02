@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GameOfThronesFacts</string>
+    <string name="welcome">Welcome to Westeros!</string>
+    <string name="Game_Of_Thrones_fact">There have been 5 books written in The Song of Ice and Fire Series so far, while 7 are planned.</string>
+    <string name="next_fact_button">Next fact please!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
